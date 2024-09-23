@@ -1,0 +1,33 @@
+actifs_financiers.csv ✅
+    Financial assets per capita
+
+flux_nouveaux_emprunts.csv ✅
+    Flux of new mortgages in M€ each month in France
+
+foyers_fiscaux.csv ✅
+    Time series for each city of:
+
+    - number of households
+    - average revenue per household
+    - crude household revenue distribution
+
+indice_reference_loyers.csv ✅
+    Inflation adjusted cost of a 100€ buying power in 1998. 
+    Used for caping of the rent increase of rented housings.
+
+loyers.csv ❌
+    Average €/m² of monthly rent in each city 
+    --> (Only data for 2018 and 2022, nothing in between)
+
+parc_immobilier.csv ❌
+    Number of housing and vacant housing in each city
+    --> (Data is between 2019 and 2021)
+
+taux_endettement.csv
+    Average debt ratio of french citizens, 
+    defined as the ratio between total debt divided by yearly gross revenue 
+    (without deducting taxes, expenses, …)
+
+taux_interet.csv ✅✅
+    Time series of average interest rates
+
